@@ -39,5 +39,16 @@ Async+Task+一个await：方法体进入了MoveNext，主线程执行
 还有线程协调的成本。。。更浪费? 
 
 1 ReadFile对比:Task/Async/Sync
+![image](https://user-images.githubusercontent.com/26539681/121619681-91376380-ca9b-11eb-9ab1-b3f5fa5341a2.png)
+总结：
+Task：当然并发---10个线程
+
+Async: 可以并发，但是并发不多---只有3个线程
+
+Sync：同步，按顺序执行
+
+这里的动作是读硬盘---都是读到当前程序里面，会很卡---不仅耗时而且卡
+
+ReadAllBytesAsync这里的线程呢？ 对不起，这里没有！！！
 
 
