@@ -67,5 +67,21 @@ Sync：串行的，耗时长
 ### 3、DoCalculation密集型计算对比:Task/Async/Sync
 todo...
 
+## 硬件DMA技术
+![image](https://user-images.githubusercontent.com/26539681/121621269-70bcd880-ca9e-11eb-985d-02db7ec1b0c5.png)
 
+## async/await适合场景
+跟第三方交互的（非托管资源，经常有async版本）：数据库openAsync-Redis、Web请求-Api、文件读取
+
+一用到底
+
+Await为什么能提升吞吐—只负责发命令—然后就忙别的去了—不需要等待---事儿完成前就不浪费资源---完成后再来线程处理---这里还能复用
+
+## async/await适合场景
+服务器本地计算(CPU密集型，托管资源)：大数据加减乘除，数据处理
+
+反而可能影响性能，但是用了没啥事儿
+
+## await/async总结
+语法糖，同步方式写异步，增加系统吞吐量，一用到底，Web开发推荐！！！
 
