@@ -53,4 +53,16 @@ Sync：同步，按顺序执行
 ReadAllBytesAsync这里的线程呢？ 对不起，这里没有！！！
 
 ### 2、InvokeWeb对比:Task/Async/Sync
+![image](https://user-images.githubusercontent.com/26539681/121620992-e3798400-ca9d-11eb-9753-e09865d7bbab.png)
+总结：
+
+Task：耗时长一些，并发不够高------10个线程---铁打的10个线程
+
+Async：并发高，速度快----少于10个线程，没有影响并发，能重用就是没事儿了，利用率高一些
+
+Sync：串行的，耗时长
+
+其实对电脑负荷比较小，GetResponseAsync这里的线程呢？ 对不起，这里没有！！！
+
+
 
