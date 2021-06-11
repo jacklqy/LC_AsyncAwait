@@ -1,7 +1,7 @@
 # LC_AsyncAwait
 用同步的方式写异步回调
 
-## await/async语法
+## async/await语法
 1  async 是用来修饰方法，如果单独出现，方法会警告,没有什么作用
 
 2  await在方法体内部，只能放在async修饰的方法内，必须放在task前面
@@ -29,7 +29,7 @@ Async+Task+一个await：方法体进入了MoveNext，主线程执行
 
 如果是Async+Task+多个await一步步执行—修改状态—再来新的await，则循环执行完成。
 
-## 价值？
+## async/await价值？
 提升性能？还是增加吞吐？串行---没有并发---就不提升性能
 
 性能：速度快慢—不能提升性能
