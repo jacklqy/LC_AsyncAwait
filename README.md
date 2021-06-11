@@ -38,5 +38,6 @@ Async+Task+一个await：方法体进入了MoveNext，主线程执行
 
 还有线程协调的成本。。。更浪费? 
 
+1 ReadFile对比:Task/Async/Sync
 
 
