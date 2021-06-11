@@ -19,4 +19,4 @@ t.Result
 
 await t
 
-
+## 同步Sync-》有序执行 | 多线程Task并行执行不阻塞-》无序执行 | 多线程Task-》ContinueWith不阻塞异步回调-》有序执行 | 异步async/await 不阻塞-》有序执行
