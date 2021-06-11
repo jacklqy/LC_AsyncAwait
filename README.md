@@ -20,3 +20,4 @@ t.Result
 await t
 
 ## 同步Sync-》有序执行 | 多线程Task并行执行不阻塞-》无序执行 | 多线程Task.ContinueWith不阻塞异步回调-》有序执行 | 异步async/await 不阻塞-》有序执行
+![image](https://user-images.githubusercontent.com/26539681/121616223-11a69600-ca95-11eb-9839-2ec6c6203381.png)
