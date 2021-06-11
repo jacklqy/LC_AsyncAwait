@@ -1,0 +1,10 @@
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETFramework47.WinformProject\bin\Debug\Zhaoxi.NETFramework47.WinformProject.exe.config
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETFramework47.WinformProject\bin\Debug\Zhaoxi.NETFramework47.WinformProject.exe
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETFramework47.WinformProject\bin\Debug\Zhaoxi.NETFramework47.WinformProject.pdb
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETFramework47.WinformProject\obj\Debug\Zhaoxi.NETFramework47.WinformProject.csprojAssemblyReference.cache
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETFramework47.WinformProject\obj\Debug\Zhaoxi.NETFramework47.WinformProject.Form1.resources
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETFramework47.WinformProject\obj\Debug\Zhaoxi.NETFramework47.WinformProject.Properties.Resources.resources
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETFramework47.WinformProject\obj\Debug\Zhaoxi.NETFramework47.WinformProject.csproj.GenerateResource.cache
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETFramework47.WinformProject\obj\Debug\Zhaoxi.NETFramework47.WinformProject.csproj.CoreCompileInputs.cache
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETFramework47.WinformProject\obj\Debug\Zhaoxi.NETFramework47.WinformProject.exe
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETFramework47.WinformProject\obj\Debug\Zhaoxi.NETFramework47.WinformProject.pdb

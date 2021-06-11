@@ -1,0 +1,13 @@
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETCore31.WinformProject\bin\Debug\netcoreapp5.0\Zhaoxi.NETCore31.WinformProject.exe
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETCore31.WinformProject\bin\Debug\netcoreapp5.0\Zhaoxi.NETCore31.WinformProject.deps.json
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETCore31.WinformProject\bin\Debug\netcoreapp5.0\Zhaoxi.NETCore31.WinformProject.runtimeconfig.json
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETCore31.WinformProject\bin\Debug\netcoreapp5.0\Zhaoxi.NETCore31.WinformProject.runtimeconfig.dev.json
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETCore31.WinformProject\bin\Debug\netcoreapp5.0\Zhaoxi.NETCore31.WinformProject.dll
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETCore31.WinformProject\bin\Debug\netcoreapp5.0\Zhaoxi.NETCore31.WinformProject.pdb
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETCore31.WinformProject\obj\Debug\netcoreapp5.0\Zhaoxi.NETCore31.WinformProject.AssemblyInfoInputs.cache
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETCore31.WinformProject\obj\Debug\netcoreapp5.0\Zhaoxi.NETCore31.WinformProject.AssemblyInfo.cs
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETCore31.WinformProject\obj\Debug\netcoreapp5.0\Zhaoxi.NETCore31.WinformProject.csproj.CoreCompileInputs.cache
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETCore31.WinformProject\obj\Debug\netcoreapp5.0\Zhaoxi.NETCore31.WinformProject.dll
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETCore31.WinformProject\obj\Debug\netcoreapp5.0\Zhaoxi.NETCore31.WinformProject.pdb
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETCore31.WinformProject\obj\Debug\netcoreapp5.0\Zhaoxi.NETCore31.WinformProject.genruntimeconfig.cache
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETCore31.WinformProject\obj\Debug\netcoreapp5.0\Zhaoxi.NETCore31.WinformProject.csprojAssemblyReference.cache

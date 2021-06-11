@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Zhaoxi.NETCore31.ConsoleProject/1.0.0": {
+        "dependencies": {
+          "Zhaoxi.NETCore31.ClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Zhaoxi.NETCore31.ConsoleProject.dll": {}
+        }
+      },
+      "Zhaoxi.NETCore31.ClassLibrary/1.0.0": {
+        "runtime": {
+          "Zhaoxi.NETCore31.ClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zhaoxi.NETCore31.ConsoleProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zhaoxi.NETCore31.ClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

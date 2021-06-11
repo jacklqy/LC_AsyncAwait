@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ttPvYYInnAu8LMVEPbCzcdcr8lWtl+6w/eJ8V7jnUleRA1XGQbIiAjvDa8mvTt/cQuF+yk9k+crAnHduK5nE/A==",
+  "success": true,
+  "projectFilePath": "D:\\BaiduNetdiskDownload\\Zhaoxi.NETCore31.AwaitAsyncProject\\Zhaoxi.NETCore31.ConsoleProject\\Zhaoxi.NETCore31.ConsoleProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETFramework47.ClassLibrary\bin\Debug\Zhaoxi.NETFramework47.ClassLibrary.dll
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETFramework47.ClassLibrary\bin\Debug\Zhaoxi.NETFramework47.ClassLibrary.pdb
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETFramework47.ClassLibrary\obj\Debug\Zhaoxi.NETFramework47.ClassLibrary.csproj.CoreCompileInputs.cache
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETFramework47.ClassLibrary\obj\Debug\Zhaoxi.NETFramework47.ClassLibrary.dll
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETFramework47.ClassLibrary\obj\Debug\Zhaoxi.NETFramework47.ClassLibrary.pdb
+D:\zhaoxi\Architect\20200816Architect01Course064AwaitAsync\Zhaoxi.NETCore31.AwaitAsyncProject\Zhaoxi.NETFramework47.ClassLibrary\obj\Debug\Zhaoxi.NETFramework47.ClassLibrary.csprojAssemblyReference.cache
