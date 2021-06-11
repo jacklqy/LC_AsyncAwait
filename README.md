@@ -64,5 +64,8 @@ Sync：串行的，耗时长
 
 其实对电脑负荷比较小，GetResponseAsync这里的线程呢？ 对不起，这里没有！！！
 
+### 3、DoCalculation密集型计算对比:Task/Async/Sync
+todo...
+
 
 
