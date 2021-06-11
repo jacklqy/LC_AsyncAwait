@@ -38,7 +38,7 @@ Async+Task+一个await：方法体进入了MoveNext，主线程执行
 
 还有线程协调的成本。。。更浪费? 
 
-### 1 ReadFile对比:Task/Async/Sync
+### 1、ReadFile对比:Task/Async/Sync
 ![image](https://user-images.githubusercontent.com/26539681/121619681-91376380-ca9b-11eb-9ab1-b3f5fa5341a2.png)
 总结：
 
@@ -52,5 +52,5 @@ Sync：同步，按顺序执行
 
 ReadAllBytesAsync这里的线程呢？ 对不起，这里没有！！！
 
-### InvokeWeb对比:Task/Async/Sync
+### 2、InvokeWeb对比:Task/Async/Sync
 
