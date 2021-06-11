@@ -27,5 +27,5 @@ Async+Task+一个await：方法体进入了MoveNext，主线程执行
 ![image](https://user-images.githubusercontent.com/26539681/121616941-7d3d3300-ca96-11eb-80c0-21e106ef2492.png)
 ![image](https://user-images.githubusercontent.com/26539681/121616632-d22c7980-ca95-11eb-8fca-f55b3cf6a4b4.png)
 
-如果是Async+Task+多个await一步步执行—修改状态—再来新的await，循环执行完成。
+如果是Async+Task+多个await一步步执行—修改状态—再来新的await，则循环执行完成。
 
