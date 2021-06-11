@@ -1,4 +1,6 @@
 # LC_AsyncAwait
+用同步的方式写异步回调
+
 ## await/async语法
 1  async 是用来修饰方法，如果单独出现，方法会警告,没有什么作用
 
